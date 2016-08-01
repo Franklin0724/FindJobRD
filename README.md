@@ -1,2 +1,2 @@
 # FindJobRD
-Website developed by time warriors.
+Website developed by Time Warriors.
